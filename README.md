@@ -3,6 +3,11 @@
 The tracetools library is an Open Source project that provides tracing 
 functions for message-passing middleware, specifically ROS.  
 
+---
+**NOTE** This package is no longer maintained. We recommend to use the ROS 2 version instead, please see https://github.com/ros2/ros2_tracing
+---
+
+
 ## Intended use 
 
 The intended use of this software is for collecting data from robotic systems
